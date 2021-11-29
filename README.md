@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Jose Coelho
+
+📫 You can find me on [my blog](https://www.jacoelho.com/) or [Linkedin](https://www.linkedin.com/in/josealbertocoelho/)
 
 <!--
 **jacoelho/jacoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
